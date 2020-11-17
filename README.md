@@ -4,7 +4,7 @@ This project was created to show other developers how to use react-leaflet to cr
 
 To view the code, go to src > App.js, or download this repo, npm install, and npm start.
 
-# Getting Started with Create React App
+## Credits
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
