@@ -1,6 +1,6 @@
 # React-Leaflet Medium Demo :round_pushpin:
 
-This project was created to show other developers how to use react-leaflet to create a map app that uses geolocation and allows a user to click and add locations. I decided to create this source code after creating my web application, [Map It](https://mapitapp.herokuapp.com/), and struggling through the documentation to get react-leaflet to function as I wanted it to. Happy coding :rainbow:
+This project was created to show other developers how to use react-leaflet to create a map app that uses geolocation and allows a user to click and add locations. I decided to create this source code after creating my web application, [Map It](https://mapitapp.herokuapp.com/), and struggling through the documentation to get react-leaflet to function as I wanted it to. I hope this helps other developers! Happy coding :rainbow:
 
 To view the code, go to src > App.js, or download this repo, npm install, and npm start.
 
